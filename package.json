@@ -1,0 +1,19 @@
+{
+  "name": "typesafe-event-emitter",
+  "version": "0.0.0",
+  "description": "Typescript declarations for making event emitters type safe",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorribas/typesafe-event-emitter.git"
+  },
+  "author": "Eduardo Sorribas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/typesafe-event-emitter/issues"
+  },
+  "homepage": "https://github.com/sorribas/typesafe-event-emitter#readme"
+}
