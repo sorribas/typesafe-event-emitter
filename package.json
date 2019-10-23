@@ -1,6 +1,6 @@
 {
   "name": "typesafe-event-emitter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Typescript declarations for making event emitters type safe",
   "main": "index.d.ts",
   "scripts": {
